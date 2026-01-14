@@ -1,6 +1,5 @@
 ---
 # the default layout is 'page'
-layout: home
 icon: fas fa-archive
 order: 0
 title: Hello 👋
