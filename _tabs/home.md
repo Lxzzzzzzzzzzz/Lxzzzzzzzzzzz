@@ -2,8 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-archive
 order: 0
-title: Hello 👋
-permalink: /
+title: Home
 ---
 Hi, it is Xinzhu Li speaking. Here's my website with paper reading notes and blog.
 
